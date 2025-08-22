@@ -1,7 +1,3 @@
-Here’s a clean **README** for your code:
-
----
-
 # README
 
 ## 📌 Overview
