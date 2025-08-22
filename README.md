@@ -57,7 +57,3 @@ Your name is Victor
    ```bash
    python ask_name.py
    ```
-
----
-
-Would you like me to **add explanations with comments directly inside your code** so it’s beginner-friendly as well?
